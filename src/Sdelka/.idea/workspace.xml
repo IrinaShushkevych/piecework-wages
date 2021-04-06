@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1e5743a-bf52-4108-91b5-d56c21a41b8d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="2237" selection-start-line="1" selection-start-column="2237" selection-end-line="1" selection-end-column="2237" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/dovidnuk_user_select.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/dovidnuk_button.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+              <folding>
+                <marker date="1569844437201" expanded="true" signature="289:349" ph="select b.nam... Dovidnuku" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/selectdovidnuk.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1598">
+              <caret line="94" column="66" selection-start-line="94" selection-start-column="66" selection-end-line="94" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/dovidnuk_ref_data_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/main.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/dovidnuku.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/template/main_dovidnuk.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/dovidnuk_data.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="952">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/php/dovidnuk_add_ispro.php" />
+        <option value="$PROJECT_DIR$/php/dovidnuk_user_select.php" />
+        <option value="$PROJECT_DIR$/php/dovidnuk_data.php" />
+        <option value="$PROJECT_DIR$/js/selectdovidnuk.js" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="bd" id="c8df67d0-8d1a-456d-9a7b-0d711748b8cc" name="bd" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="D:/OSPanel/domains/BD" />
+        </path_mappings>
+      </server>
+      <server host="\\127.0.01\sdelka" id="403e1e4b-6a25-4bb3-b5f0-d1896def98cb" name="sdelka" />
+      <server host="sdelka" id="35289ec3-c0a7-4e77-a173-180993cacd8c" name="sdelka (1)" />
+      <server host="127.0.0.1" id="78a333e5-cbae-4a66-9e1f-3449d98739a2" name="127.0.0.1" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 5.5" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="60" />
+    <option name="width" value="1765" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Sdelka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sdelka" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.dovidnuk_add_ispro.php">
+    <configuration name="dovidnuk_add_ispro.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Sdelka/php/dovidnuk_add_ispro.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="dovidnuk_add_ispro.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php/dovidnuk_add_ispro.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.dovidnuk_add_ispro.php" />
+      <item itemvalue="PHP Script.dovidnuk_add_ispro.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.dovidnuk_add_ispro.php" />
+        <item itemvalue="PHP Script.dovidnuk_add_ispro.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task id="Default" summary="Default task">
+      <changelist id="b1e5743a-bf52-4108-91b5-d56c21a41b8d" name="Default" comment="" />
+      <created>1549967734088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549972511320</updated>
+      <workItem from="1549967735262" duration="1647000" />
+    </task>
+    <task active="true" id="LOCAL-00001" summary="$result">
+      <created>1549972507683</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549972511597</updated>
+      <workItem from="1549972512100" duration="16475000" />
+      <workItem from="1550576724498" duration="9378000" />
+      <workItem from="1551085654864" duration="3735000" />
+      <workItem from="1551339203133" duration="3477000" />
+      <workItem from="1552290120494" duration="617000" />
+      <workItem from="1552291245136" duration="753000" />
+      <workItem from="1553249064966" duration="7359000" />
+      <workItem from="1553496783449" duration="1969000" />
+      <workItem from="1554722775099" duration="1238000" />
+      <workItem from="1554726770348" duration="12000" />
+      <workItem from="1554891203747" duration="9769000" />
+      <workItem from="1555410165147" duration="2799000" />
+      <workItem from="1568114380863" duration="599000" />
+      <workItem from="1568120088384" duration="599000" />
+      <workItem from="1568179502348" duration="10000" />
+      <workItem from="1569312331354" duration="560000" />
+      <workItem from="1571394650969" duration="239000" />
+      <workItem from="1571395278031" duration="1000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="61236000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="60" y="0" width="1765" height="1040" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12199414" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5319383" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/php/dovidnuk_add_ispro.php</url>
+          <line>311</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/php/dovidnuk_data.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/php/dovidnuk_data.php</url>
+          <line>80</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/php/dovidnuk_data.php</url>
+          <line>77</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/php/dovidnuk_ref_data_table.php</url>
+          <line>23</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/php/dovidnuk_ref_data_table.php</url>
+          <line>41</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/php/dovidnuk_ref_data_table.php</url>
+          <line>60</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/php/dovidnuk_ref_data_table.php</url>
+          <line>90</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/php/dovidnuk_ref_data_table.php</url>
+          <line>123</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/php/dovidnuk_ref_data_table.php</url>
+          <line>120</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/php/dovidnuk_ref_data_table.php</url>
+          <line>122</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/selectdovidnuk.js</url>
+          <line>18</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/selectdovidnuk.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/selectdovidnuk.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/selectdovidnuk.js</url>
+          <line>26</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/selectdovidnuk.js</url>
+          <line>94</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="dovidnuk_user_select.php">
+        <watch expression="$r" language="PHP" />
+        <watch expression="$sql" language="PHP" />
+        <watch expression="$rr" language="PHP" />
+        <watch expression="$result" language="PHP" />
+      </configuration>
+      <configuration name="dovidnuk_data.php">
+        <watch expression="$select" />
+        <watch expression="$from" />
+        <watch expression="$where" />
+        <watch expression="$sql" />
+        <watch expression="$id" language="PHP" />
+        <watch expression="$r" language="PHP" />
+        <watch expression="$rs" language="PHP" />
+        <watch expression="$rt" language="PHP" />
+        <watch expression="$GLOBALS['IDE_EVAL_CACHE']['ea6b081c-6439-480d-9ae7-cbcc0f54b0d6'][0]" />
+        <watch expression="$str" language="PHP" />
+      </configuration>
+      <configuration name="dovidnuk_ref_data_table.php">
+        <watch expression="$r1" language="PHP" />
+        <watch expression="$r2" language="PHP" />
+        <watch expression="$r3" language="PHP" />
+        <watch expression="$r4" language="PHP" />
+        <watch expression="$select" language="PHP" />
+        <watch expression="$from" language="PHP" />
+        <watch expression="$where" language="PHP" />
+        <watch expression="$order" language="PHP" />
+        <watch expression="$select_union" language="PHP" />
+        <watch expression="$from_union" language="PHP" />
+        <watch expression="$where_union" language="PHP" />
+        <watch expression="$sql" language="PHP" />
+        <watch expression="$sql_union" language="PHP" />
+      </configuration>
+      <configuration name="dovidnuk_add_ispro.php">
+        <watch expression="$ispro_rcd" />
+        <watch expression="$ispro_rcd_name" language="PHP" />
+        <watch expression="$r[$i]['name_col_ispro']" language="PHP" />
+        <watch expression="$result[$j][$r[$i]['name_col_ispro']]" language="PHP" />
+        <watch expression="$result[$j][$r[$i]['name_col_ispro']]" language="PHP" />
+        <watch expression="$ressel" language="PHP" />
+        <watch expression="$result" />
+        <watch expression="$select" />
+        <watch expression="$insert" />
+        <watch expression="$val" />
+        <watch expression="$update" />
+        <watch expression="$from" />
+        <watch expression="$where" />
+        <watch expression="$namet" />
+        <watch expression="$numb" />
+        <watch expression="$num_key" />
+        <watch expression="$numb_table" />
+        <watch expression="$tables" />
+        <watch expression="$sql" />
+        <watch expression="$key_table" language="PHP" />
+        <watch expression="$num_r" />
+        <watch expression="$num_id" language="PHP" />
+        <watch expression="$p" />
+        <watch expression="$num_result" />
+        <watch expression="$num_r[$ii]['name_col_ispro']" language="PHP" />
+        <watch expression="$num_result[$jj][$num_r[$ii]['name_col_ispro']]" language="PHP" />
+        <watch expression="$sqlselect" language="PHP" />
+        <watch expression="$sqlinsert" language="PHP" />
+        <watch expression="$sqlupdate" language="PHP" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>$sql_union</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$sql</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$where_union</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$from_union</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$select_union</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$order</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$where</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$from</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$select</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../modules/system/html/openserver/phpmyadmin/sql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/dovidnuk_add_ispro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="295" selection-start-line="295" selection-end-line="295" />
+          <folding>
+            <marker date="1551350654676" expanded="true" signature="470:668" ph="select disti... Dovidnuku" />
+            <marker date="1551350654676" expanded="true" signature="1420:1611" ph="select disti... Dovidnuku" />
+            <marker date="1551350654676" expanded="true" signature="1911:2081" ph="select dt.wh... Dovidnuku" />
+            <marker date="1551350654676" expanded="true" signature="2270:2459" ph="select dt.na... Dovidnuku" />
+            <marker date="1551350654676" expanded="true" signature="3398:3641" ph="select disti... Dovidnuku" />
+            <marker date="1551350654676" expanded="true" signature="4173:4210" ph="insert into ${$r[0]['table_name']}... " />
+            <marker date="1551350654676" expanded="true" signature="5362:5393" ph="select id fr... ${$from}" />
+            <marker date="1551350654676" expanded="true" signature="7326:7515" ph="select disti... Dovidnuku" />
+            <marker date="1551350654676" expanded="true" signature="7979:8194" ph="select disti... Dovidnuku" />
+            <marker date="1551350654676" expanded="true" signature="8631:8817" ph="select dt.wh... Dovidnuku" />
+            <marker date="1551350654676" expanded="true" signature="9086:9291" ph="select dt.na... Dovidnuku" />
+            <marker date="1551350654676" expanded="true" signature="10350:10609" ph="select disti... Dovidnuku" />
+            <marker date="1551350654676" expanded="true" signature="11437:11478" ph="insert into ${$num_r[0]['table_name']}... " />
+            <marker date="1551350654676" expanded="true" signature="12417:12432" ph="select id fr... ${$num_r[0]['table_name']}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="2237" selection-start-line="1" selection-start-column="2237" selection-end-line="1" selection-end-column="2237" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/dovidnuk_user_select.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/dovidnuk_button.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <marker date="1569844437201" expanded="true" signature="289:349" ph="select b.nam... Dovidnuku" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/selectdovidnuk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="66" selection-start-line="94" selection-start-column="66" selection-end-line="94" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/dovidnuk_ref_data_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/main.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/dovidnuku.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/dovidnuk_data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/main_dovidnuk.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,337 @@
+.stage {
+    position: relative;
+    margin: 0 -20px 1em;
+    img {
+        display: block;
+        width: 100%;
+        }
+    .mark {
+        position: absolute;
+        bottom: 30px;
+        left: 30px;
+        color: #fff;
+        font-size: 24px;
+    }
+}
+.mark {
+    display: inline-block;
+    text-transform: uppercase;
+    .stage:hover & {
+        .fade {
+            -webkit-mask-position-x: 0%;
+        }
+        strong {
+            transform: none;
+            transition-delay: 0;
+        }
+        .description {
+            transition-delay: 0.75s;
+            transition-duration: 3s;
+        }
+    }
+    strong {
+        display: inline-block;
+        transform: translateY(100%);
+        transition: transform 1s ease;
+        transition-delay: 1.5s;
+    }
+    p {
+        margin: 0;
+    }
+    .fade {
+        mask-image: linear-gradient(90deg, #000 0%, #000 33.33%, transparent 66.66%);
+        -webkit-mask-size: 300%;
+        -webkit-mask-position-x: 100%;
+        transition: -webkit-mask-position-x 2s ease;
+    }
+    .description {
+        transition-delay: 0;
+    }
+}
+
+.stage::before {
+    content: '';
+    position: absolute;
+    right: 0;
+    padding: 10px;
+    background-color: #444c4c;
+    opacity: .6;
+}
+
+/*     Меню         */
+.wraper{
+    display: table;
+    width: 100%;
+    margin: 10px;
+}
+.navdiv{
+    position: relative;
+    overflow:hidden;
+    margin: 0 auto;
+    display: table;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.ribbon:after, .ribbon:before {
+  margin-top:0.5em;
+  content: "";
+  float: left;
+  border:1.5em solid #fff;
+
+
+}
+ 
+.ribbon:after {
+  border-color: #7b7b84 transparent #7b7b84 #7b7b84;
+}
+ 
+.ribbon:before {
+   border-color: #7b7b84 #7b7b84 #7b7b84 transparent  ;
+}
+
+
+.ribbon a:link, .ribbon a:visited { 
+  color: #000;
+  text-decoration:none;
+  float:left;
+  height:3.5em;
+  overflow:hidden;
+}
+
+
+.ribbon span {
+  background: #7b7b84;/*#fff;*/
+  display:inline-block;
+  line-height:3em;
+  padding:0 1em;
+  margin-top:0.5em;
+  position:relative;
+  transition: background-color 0.2s, margin-top 0.2s;
+}
+ 
+.ribbon a:hover span {
+  background:#3d0099;/*#FFD204;*/
+  color: white;
+  margin-top:0;
+}
+ 
+.ribbon span:before {
+  content: "";
+  position:absolute;
+  top:3em;
+  left:0;
+  border-right:0.5em solid #7b7b84;
+  border-bottom:0.5em solid #fff;
+}
+ 
+.ribbon span:after {
+  content: "";
+  position:absolute;
+  top:3em;
+  right:0;
+  border-left:0.5em solid #7b7b84;
+  border-bottom:0.5em solid #fff;
+}
+/*-------------------*/
+
+.sdelkamain {
+	background-color: #010101;
+    color: white;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+.sdelkamainadmin {
+    background: url(1.png) repeat-x 0 100% fixed;
+	background-color: #010101;
+    color: white;
+	font-family: Tahoma;
+	font-size: 10pt;
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0;
+}
+
+.sdelkamainnormu{
+    background: url(1.png) repeat-x 0 100% fixed;
+	background-color: #010101;
+    color: white;
+	font-family: Tahoma;
+	font-size: 10pt;
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0;
+}
+
+.sdelkamaindovidnuk {
+    background: url(1.png) repeat-x 0 100% fixed;
+	background-color: #010101;
+    color: white;
+	font-family: Tahoma;
+	font-size: 10pt;
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0;
+}
+
+.TableDespatch {
+    border: solid #ccc 1px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    -webkit-box-shadow: 0 1px 1px #ccc; 
+    -moz-box-shadow: 0 1px 1px #ccc; 
+    box-shadow: 0 1px 1px #ccc; 
+    width: 100%;    
+}
+ 
+.TableDespatch .colbox:hover {
+    background: black;
+    color: white;
+    -o-transition: all 0.1s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -ms-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out;     
+}    
+ 
+.TableDespatch td, .TableDespatch th {
+    border-left: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    padding: 5px;
+    text-align: centre;    
+}
+ 
+.TableDespatch tr {
+    background-color: #e6e6e6;
+    color: black;
+}
+
+.TableDespatch th {
+    background-color: blue;
+     color: white;
+    -webkit-box-shadow: 0 1px 0 rgba(255,255,255,.8) inset; 
+    -moz-box-shadow:0 1px 0 rgba(255,255,255,.8) inset;  
+    box-shadow: 0 1px 0 rgba(255,255,255,.8) inset;        
+    border-top: none;
+    text-shadow: 0 1px 0 rgba(255,255,255,.5); 
+}
+ 
+.TableDespatch td:first-child, .TableDespatch th:first-child {
+    border-left: none;
+}
+ 
+.TableDespatch th:first-child {
+    -moz-border-radius: 6px 0 0 0;
+    -webkit-border-radius: 6px 0 0 0;
+    border-radius: 6px 0 0 0;
+}
+ 
+.TableDespatch th:last-child {
+    -moz-border-radius: 0 6px 0 0;
+    -webkit-border-radius: 0 6px 0 0;
+    border-radius: 0 6px 0 0;
+}
+ 
+.TableDespatch th:only-child{
+    -moz-border-radius: 6px 6px 0 0;
+    -webkit-border-radius: 6px 6px 0 0;
+    border-radius: 6px 6px 0 0;
+}
+ 
+.TableDespatch tr:last-child td:first-child {
+    -moz-border-radius: 0 0 0 6px;
+    -webkit-border-radius: 0 0 0 6px;
+    border-radius: 0 0 0 6px;
+}
+ 
+.TableDespatch tr:last-child td:last-child {
+    -moz-border-radius: 0 0 6px 0;
+    -webkit-border-radius: 0 0 6px 0;
+    border-radius: 0 0 6px 0;
+}
+
+.TableDespatch th{
+  position: -webkit-sticky;
+  position: -moz-sticky;
+  position: -ms-sticky;
+  position: -o-sticky;
+  position: sticky;
+  top: 0px;
+}
+
+.dovinputtable{
+   width : 100%;
+    height : 100%;
+    margin: 0;
+    padding: 0px;
+    border: 0px;
+    border-style: solid;
+}
+
+#modal_form {
+	width: 400px; 
+	height: 700px;
+	border-radius: 5px;
+	border: 3px #000 solid;
+	background: linear-gradient(to top, #1d1f21, #18d6e0) fixed;/*#fff;*/
+	position: fixed; /* чтoбы oкнo былo в видимoй зoне в любoм месте */
+	top: 45%; /* oтступaем сверху 45%, oстaльные 5% пoдвинет скрипт */
+	left: 50%; /* пoлoвинa экрaнa слевa */
+/*	margin-top: -150px;
+	margin-left: -150px; /* тут вся мaгия центрoвки css, oтступaем влевo и вверх минус пoлoвину ширины и высoты сooтветственнo =) */
+	display: none; /* в oбычнoм сoстoянии oкнa не дoлжнo быть */
+	opacity: 0; /* пoлнoстью прoзрaчнo для aнимирoвaния */
+	z-index: 9999; /* oкнo дoлжнo быть нaибoлее бoльшем слoе */
+	padding: 20px 10px;
+    color: black;
+}
+/* Кнoпкa зaкрыть для тех ктo в тaнке) */
+#modal_form #modal_close {
+	width: 18px;
+	height: 18px;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	cursor: pointer;
+	display: block;
+    margin-bottom: 10px;
+}
+/* Пoдлoжкa */
+#overlay {
+   
+	z-index:3; /* пoдлoжкa дoлжнa быть выше слoев элементoв сaйтa, нo ниже слoя мoдaльнoгo oкнa */
+	position:fixed; /* всегдa перекрывaет весь сaйт */
+	background-color:#000; /* чернaя */
+	opacity:0.8; /* нo немнoгo прoзрaчнa */
+    
+	-moz-opacity:0.8; /* фикс прозрачности для старых браузеров */
+	filter:alpha(opacity=80);
+
+    width:100%; 
+	height:100%; /* рaзмерoм вo весь экрaн */
+	top:0; /* сверху и слевa 0, oбязaтельные свoйствa! */
+	left:0;
+	cursor:pointer;
+	display:none; /* в oбычнoм сoстoянии её нет) */
+}
+
+ul { 
+ 
+    overflow: auto; 
+    width: 100%;  
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+    overflow-x: auto; 
+}
+
+li { 
+    margin: 0; 
+    padding: 0; 
+}
+
